@@ -1,0 +1,12 @@
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/bin/Debug/net6.0/RestSharp.deps.json
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/bin/Debug/net6.0/RestSharp.dll
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/bin/Debug/net6.0/RestSharp.pdb
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.csproj.AssemblyReference.cache
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.AssemblyInfoInputs.cache
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.AssemblyInfo.cs
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.csproj.CoreCompileInputs.cache
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.dll
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/refint/RestSharp.dll
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/RestSharp.pdb
+/Users/priyankathota/TestAutomation/RestSharp/RestSharp/obj/Debug/net6.0/ref/RestSharp.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CrQx7twDpadYiOkvnolt2VTed8dlWFb+AfmEzLZOgpOiJzSfAP/uQQak3IGTdvN+ws0CGOi6gGSWVtpIsbO1A==",
+  "success": true,
+  "projectFilePath": "/Users/priyankathota/TestAutomation/RestSharp/RestSharp/RestSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/priyankathota/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/priyankathota/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
